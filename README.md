@@ -17,3 +17,7 @@ make test
 # Run full pre-commit and lint check
 make check
 ```
+
+## License
+
+Copyright (C) 2026 Björn Hansen — licensed under [AGPL-3.0-or-later](LICENSE).
